@@ -18,3 +18,5 @@ else
 echo "Backup failed!!!!"
 
 fi
+
+echo "File process succesfull"
