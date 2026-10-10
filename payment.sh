@@ -1,16 +1,4 @@
-#!/bin/bash
-read -p "Enter your product name: " product_name
-case $product_name in
-    "laptop")
-        echo "Searching for laptops..."
-        ;;
-    "phone")
-        echo "Searching for phones..."
-        ;;
-    "tablet")
-        echo "Searching for tablets..."
-        ;;
-    *)
-        echo "Product not found."
-        ;;
-esac
+hello team,
+this is payment feature.
+we have to add UPI and NEFT transaction flow.
+we will adding new features of the App.
