@@ -1,0 +1,3 @@
+select * from emater.e_clients ec 
+inner join emaster.e_clientgroup ecg on ec.clientid=ecg.clientid
+where e_clientgroupname="ABG"
